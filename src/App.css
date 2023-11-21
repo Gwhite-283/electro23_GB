@@ -1,0 +1,73 @@
+* {
+  font-family: 'Public Sans', sans-serif;
+ 
+    caret-color: transparent;
+  
+
+}
+
+Button{
+  
+  border-radius: 0 !important;
+}
+
+body {
+
+  color: #393a49
+  
+}
+
+a{
+  color: inherit !important;
+}
+
+.Link {
+
+  color: #393a49 !important;
+  text-decoration: none;
+}
+
+.Link:hover {
+  color: #393a49;
+  border-bottom: 3px solid #3cbaba;
+}
+
+.LinkHome {
+  color: #3cbaba;
+  text-decoration: none;
+}
+
+.f-14px {
+  font-size: 14px;
+}
+
+.navbar-toggler:focus {
+  text-decoration: none;
+  outline: 0;
+  box-shadow: 0 0 0 ; 
+  
+}
+
+.navbar-toggler{
+  margin-left: -20px;
+  
+}
+
+.navbar>.container{
+
+  max-width: none !important;
+  padding: 0 5vh;
+}
+
+.MuiBadge-badge{
+  font-size: 10px !important;
+  height: 15px !important;
+  width: 15px !important;
+  min-width: 0px !important;
+}
+
+.modal-content  {
+  -webkit-border-radius: 0px !important;
+  -moz-border-radius: 0px !important;
+  border-radius: 0px !important; 
+}

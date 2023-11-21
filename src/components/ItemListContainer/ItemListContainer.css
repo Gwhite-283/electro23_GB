@@ -1,0 +1,56 @@
+.max-width-container {
+  max-width: 1000px;
+}
+
+.custom-col {
+  height: 200px;
+  /* Ajusta la altura deseada */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.row {
+  display: flex;
+
+}
+
+.hover-right {
+  transition: transform 0.3s ease;
+}
+
+.arrow-container1 {
+
+  transition: transform 0.3s ease;
+
+
+}
+
+.hover-right:hover .arrow-container1 {
+  transform: translateX(15px);
+}
+
+.arrow-container1 {
+  display: inline-block;
+}
+
+
+
+.arrow-container2 {
+
+  transition: transform 0.3s ease;
+
+
+}
+
+.hover-right:hover .arrow-container2 {
+  transform: translateX(-15px);
+}
+
+.arrow-container2 {
+  display: inline-block;
+}
+
+.hold {
+  display: inline-block;
+}

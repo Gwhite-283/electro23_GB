@@ -1,0 +1,57 @@
+
+.imagen {
+    max-width: 100%;/* La imagen se ajustará al ancho máximo del contenedor */
+    max-height: 100%; /* La imagen se ajustará a la altura máxima del contenedor */
+    object-fit: contain; /* La imagen se ajustará manteniendo su relación de aspecto */
+  }
+  
+  .bg-custom{
+  
+    background-color: #f8f8f8;
+  }
+
+
+  
+.box1 {
+  position: relative;
+}
+
+.box1 .content1 {
+  width: 100%;
+  height: 30vh;
+  background: #f3f2f2; 
+ 
+}
+
+.box1 .content1:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #ffffff;
+  z-index: 1;
+  animation: reveal .4s reverse forwards;
+  animation-delay: .4s;
+  transform-origin: right;
+}
+
+.box1 .content1 img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+ 
+}
+
+@keyframes reveal {
+  0% {
+    transform: scaleX(0);
+  }
+  
+  100% {
+    transform: scaleX(1);
+  }
+} 

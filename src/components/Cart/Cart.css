@@ -1,0 +1,81 @@
+.bg-greycustom {
+
+    background-color: #F4F4F4;
+    min-height: 90vh;
+    padding-bottom: 10vh;
+
+}
+
+.barra-horizontal {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 10vh;
+    margin-bottom: 0px;
+    background-color: #ffffff;
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+
+
+.count-style {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #a4a4a4;
+    margin: 0 !important;
+    padding: 0;
+  }
+  
+  .count-style > span {
+    padding: 0px 12px;
+    cursor: pointer;
+    user-select: none;
+  }
+  
+  .count-style-center {
+    border-left: 1px solid  #a4a4a4;
+    border-right: 1px solid  #a4a4a4;
+  }
+  
+  .count-style-but:hover{
+    background-color: rgb(158, 158, 158) !important;
+  }
+  
+
+
+  .but {
+    height: 100%;
+    width: 150%; 
+  }
+
+  .x{
+    color:rgb(93, 92, 92);
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    user-select: none;
+  } 
+
+
+  .bi-trash{
+
+    color: #a4a4a4
+  }
+
+  .bi-trash:hover{
+
+    color: #383838
+  }
+
+  .card-cart{
+
+    border: none;
+
+    border-radius: 0;
+    margin-top: 9px
+
+  }

@@ -1,0 +1,209 @@
+{
+  "hash": "0294b953",
+  "browserHash": "2df9ba26",
+  "optimized": {
+    "@mui/icons-material": {
+      "src": "../../node_modules/@mui/icons-material/esm/index.js",
+      "file": "@mui_icons-material.js",
+      "fileHash": "f4c3dcd4",
+      "needsInterop": false
+    },
+    "@mui/icons-material/ArrowForwardIos": {
+      "src": "../../node_modules/@mui/icons-material/ArrowForwardIos.js",
+      "file": "@mui_icons-material_ArrowForwardIos.js",
+      "fileHash": "bda2870b",
+      "needsInterop": true
+    },
+    "@mui/icons-material/Menu": {
+      "src": "../../node_modules/@mui/icons-material/Menu.js",
+      "file": "@mui_icons-material_Menu.js",
+      "fileHash": "22eed489",
+      "needsInterop": true
+    },
+    "@mui/icons-material/Search": {
+      "src": "../../node_modules/@mui/icons-material/Search.js",
+      "file": "@mui_icons-material_Search.js",
+      "fileHash": "ec27c3ff",
+      "needsInterop": true
+    },
+    "@mui/icons-material/ShoppingCartOutlined": {
+      "src": "../../node_modules/@mui/icons-material/ShoppingCartOutlined.js",
+      "file": "@mui_icons-material_ShoppingCartOutlined.js",
+      "fileHash": "5b71a1ba",
+      "needsInterop": true
+    },
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "78b80439",
+      "needsInterop": false
+    },
+    "@mui/material/AppBar": {
+      "src": "../../node_modules/@mui/material/AppBar/index.js",
+      "file": "@mui_material_AppBar.js",
+      "fileHash": "12010245",
+      "needsInterop": false
+    },
+    "@mui/material/Box": {
+      "src": "../../node_modules/@mui/material/Box/index.js",
+      "file": "@mui_material_Box.js",
+      "fileHash": "85ac11d8",
+      "needsInterop": false
+    },
+    "@mui/material/Button": {
+      "src": "../../node_modules/@mui/material/Button/index.js",
+      "file": "@mui_material_Button.js",
+      "fileHash": "b49d0c02",
+      "needsInterop": false
+    },
+    "@mui/material/Container": {
+      "src": "../../node_modules/@mui/material/Container/index.js",
+      "file": "@mui_material_Container.js",
+      "fileHash": "0e9d8f67",
+      "needsInterop": false
+    },
+    "@mui/material/InputBase": {
+      "src": "../../node_modules/@mui/material/InputBase/index.js",
+      "file": "@mui_material_InputBase.js",
+      "fileHash": "60906a96",
+      "needsInterop": false
+    },
+    "@mui/material/styles": {
+      "src": "../../node_modules/@mui/material/styles/index.js",
+      "file": "@mui_material_styles.js",
+      "fileHash": "156343f1",
+      "needsInterop": false
+    },
+    "@mui/material/Toolbar": {
+      "src": "../../node_modules/@mui/material/Toolbar/index.js",
+      "file": "@mui_material_Toolbar.js",
+      "fileHash": "81dc44cc",
+      "needsInterop": false
+    },
+    "@mui/material/Typography": {
+      "src": "../../node_modules/@mui/material/Typography/index.js",
+      "file": "@mui_material_Typography.js",
+      "fileHash": "52bb7ace",
+      "needsInterop": false
+    },
+    "@mui/material/useScrollTrigger": {
+      "src": "../../node_modules/@mui/material/useScrollTrigger/index.js",
+      "file": "@mui_material_useScrollTrigger.js",
+      "fileHash": "8e01ddfd",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "a761259c",
+      "needsInterop": true
+    },
+    "react-bootstrap/Button": {
+      "src": "../../node_modules/react-bootstrap/esm/Button.js",
+      "file": "react-bootstrap_Button.js",
+      "fileHash": "04fc3110",
+      "needsInterop": false
+    },
+    "react-bootstrap/Card": {
+      "src": "../../node_modules/react-bootstrap/esm/Card.js",
+      "file": "react-bootstrap_Card.js",
+      "fileHash": "74aa29d3",
+      "needsInterop": false
+    },
+    "react-bootstrap/Carousel": {
+      "src": "../../node_modules/react-bootstrap/esm/Carousel.js",
+      "file": "react-bootstrap_Carousel.js",
+      "fileHash": "8329b717",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "e08f72cb",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-KE4I6IE5": {
+      "file": "chunk-KE4I6IE5.js"
+    },
+    "chunk-ZN4YZ3CV": {
+      "file": "chunk-ZN4YZ3CV.js"
+    },
+    "chunk-KT35346Y": {
+      "file": "chunk-KT35346Y.js"
+    },
+    "chunk-DDIKCVQN": {
+      "file": "chunk-DDIKCVQN.js"
+    },
+    "chunk-PLKRG5P5": {
+      "file": "chunk-PLKRG5P5.js"
+    },
+    "chunk-EZWJO27S": {
+      "file": "chunk-EZWJO27S.js"
+    },
+    "chunk-2B7SKN5W": {
+      "file": "chunk-2B7SKN5W.js"
+    },
+    "chunk-YRHQ2DWQ": {
+      "file": "chunk-YRHQ2DWQ.js"
+    },
+    "chunk-I2ZZMBRK": {
+      "file": "chunk-I2ZZMBRK.js"
+    },
+    "chunk-TC43H35Q": {
+      "file": "chunk-TC43H35Q.js"
+    },
+    "chunk-R43BKVBR": {
+      "file": "chunk-R43BKVBR.js"
+    },
+    "chunk-GZQ2UPJ2": {
+      "file": "chunk-GZQ2UPJ2.js"
+    },
+    "chunk-P4E2HD33": {
+      "file": "chunk-P4E2HD33.js"
+    },
+    "chunk-OUAKR4BF": {
+      "file": "chunk-OUAKR4BF.js"
+    },
+    "chunk-HYKEUPE5": {
+      "file": "chunk-HYKEUPE5.js"
+    },
+    "chunk-PY6H3E3E": {
+      "file": "chunk-PY6H3E3E.js"
+    },
+    "chunk-ZWZIBAV3": {
+      "file": "chunk-ZWZIBAV3.js"
+    },
+    "chunk-S5CYZU5E": {
+      "file": "chunk-S5CYZU5E.js"
+    },
+    "chunk-XBQVYMB3": {
+      "file": "chunk-XBQVYMB3.js"
+    },
+    "chunk-W24TCKU5": {
+      "file": "chunk-W24TCKU5.js"
+    },
+    "chunk-TCWN2FLC": {
+      "file": "chunk-TCWN2FLC.js"
+    },
+    "chunk-JVFU7BZX": {
+      "file": "chunk-JVFU7BZX.js"
+    },
+    "chunk-DTMR3YLS": {
+      "file": "chunk-DTMR3YLS.js"
+    },
+    "chunk-7TITP5RC": {
+      "file": "chunk-7TITP5RC.js"
+    },
+    "chunk-O56RX22H": {
+      "file": "chunk-O56RX22H.js"
+    },
+    "chunk-OMAWQ2RS": {
+      "file": "chunk-OMAWQ2RS.js"
+    },
+    "chunk-HS7GO4I2": {
+      "file": "chunk-HS7GO4I2.js"
+    }
+  }
+}
